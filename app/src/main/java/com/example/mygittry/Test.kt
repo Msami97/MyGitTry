@@ -1,9 +1,5 @@
 package com.example.mygittry
 
 fun main (){
-
-
-
-    print("with senior Darandaly ")
-
+    print("i am going to be an android developer! ")
 }
