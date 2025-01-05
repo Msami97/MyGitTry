@@ -1,9 +1,7 @@
 package com.example.mygittry
 
 fun main (){
-
-
-
-    print("with senior Darandaly ")
+    print("with junior Sami ")
+    print("QPN")
 
 }
